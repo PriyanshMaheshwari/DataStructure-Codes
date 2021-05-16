@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568492899 source:c:\users\dell\desktop\kr sir\assign-22\hauffman\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

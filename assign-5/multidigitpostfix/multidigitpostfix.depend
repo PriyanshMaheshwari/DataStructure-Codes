@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565885992 source:c:\users\dell\desktop\kr sir\assign-5\multidigitpostfix\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+

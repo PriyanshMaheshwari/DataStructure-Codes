@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567079738 source:c:\users\dell\desktop\kr sir\assign-13\snakeprint\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+

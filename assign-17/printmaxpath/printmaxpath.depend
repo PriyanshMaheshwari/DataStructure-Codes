@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567709879 source:c:\users\dell\desktop\kr sir\assign-17\printmaxpath\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

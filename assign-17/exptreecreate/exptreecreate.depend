@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567682750 source:c:\users\dell\desktop\kr sir\assign-17\exptreecreate\main.cpp
+	<iostream>
+	<stack>
+	<cmath>
+

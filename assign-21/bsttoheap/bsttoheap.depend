@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568285394 source:c:\users\dell\desktop\kr sir\assign-21\bsttoheap\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

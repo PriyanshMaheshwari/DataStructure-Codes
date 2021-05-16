@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567936753 source:c:\users\dell\desktop\kr sir\assign-17\commonnodes\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+
